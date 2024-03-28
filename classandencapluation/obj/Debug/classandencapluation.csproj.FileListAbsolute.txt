@@ -1,0 +1,7 @@
+C:\Users\2022\Desktop\classandencapluation\classandencapluation\bin\Debug\classandencapluation.exe.config
+C:\Users\2022\Desktop\classandencapluation\classandencapluation\bin\Debug\classandencapluation.exe
+C:\Users\2022\Desktop\classandencapluation\classandencapluation\bin\Debug\classandencapluation.pdb
+C:\Users\2022\Desktop\classandencapluation\classandencapluation\obj\Debug\classandencapluation.csproj.AssemblyReference.cache
+C:\Users\2022\Desktop\classandencapluation\classandencapluation\obj\Debug\classandencapluation.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\classandencapluation\classandencapluation\obj\Debug\classandencapluation.exe
+C:\Users\2022\Desktop\classandencapluation\classandencapluation\obj\Debug\classandencapluation.pdb
